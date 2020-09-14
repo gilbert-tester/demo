@@ -7,4 +7,9 @@ import org.junit.runner.RunWith;
 @RunWith(Cucumber.class)
 @CucumberOptions(strict = true)
 public class RunCukesTest {
+	private void syso() {
+
+		String syso = "Test";
+	
+	}
 }
